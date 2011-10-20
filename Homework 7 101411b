@@ -1,3 +1,7 @@
+# this is titus and art's self important comment
+# at the very top of the file
+# pointing out that janet is very wrong about some aspects of Python
+
 import csv, urllib
 
 #=========================
